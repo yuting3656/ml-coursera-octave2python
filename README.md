@@ -1,3 +1,5 @@
+## 從別人家拿來的超級棒棒的練習!
+
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
